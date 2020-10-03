@@ -1,0 +1,6 @@
+#app.svelte-8vc4nf{height:100vh;width:100vw;overflow-x:hidden}
+#add-todo.svelte-1pjwi0b.svelte-1pjwi0b{margin-top:20px;margin-bottom:20px}#add-todo.svelte-1pjwi0b input.svelte-1pjwi0b{outline:none;border-radius:4px;border:2px solid black;font-size:20px;padding:4px;width:88%}#add-todo.svelte-1pjwi0b button.svelte-1pjwi0b{font-size:20px;padding:5px;border:none;border-radius:4px}
+.done.svelte-p2e3mc.svelte-p2e3mc{text-decoration:line-through}#todo.svelte-p2e3mc.svelte-p2e3mc{background:rgb(232, 241, 142);font-size:20px;border-radius:4px;padding:5px;margin-top:5px;margin-bottom:10px;display:flex;align-items:center;justify-content:space-evenly}#todo.svelte-p2e3mc p.svelte-p2e3mc{margin:5px;margin-left:50px}#todo.svelte-p2e3mc div.svelte-p2e3mc{margin-left:auto}#close.svelte-p2e3mc.svelte-p2e3mc{outline:none;padding:10px;background:red;border:none;border-radius:5px;color:white;transition:transform ease 0.1s}#completed.svelte-p2e3mc.svelte-p2e3mc{outline:none;padding:10px;background:rgb(100, 240, 228);border:none;border-radius:5px;color:black;transition:transform ease 0.1s}#todo.svelte-p2e3mc button.svelte-p2e3mc:hover{transform:scale(0.8)}
+#todo.svelte-159724u{width:70vw;margin:auto;margin-top:50px;margin-bottom:100px;border:none;padding:10px;border-radius:5px;background:greenyellow}
+
+/*# sourceMappingURL=bundle.css.map */
